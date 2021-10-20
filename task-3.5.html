@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Register</h1>
+    <form action="http://www.google.com">
+        <label for="first-name">First Name:</label>
+        <input name="first-Name" type="text" placeholder="John" id="first-name" required>
+
+        <label for="last-name">Last Name:</label>
+        <input name="last-name" type="text" placeholder="Smith" id="last-name" required>
+
+        <br>
+
+        <label for="male">Male</label>
+        <input id="male" name="GenderType" type="radio" value="male">
+
+        <label for="female">Female</label>
+        <input id="female" name="GenderType" type="radio" value="female">
+
+        <label for="other">Other</label>
+        <input id="other" name="GenderType" type="radio" value="other">
+
+        <br>
+
+        <label for="email">Email:</label>
+        <input name="email" type="email" placeholder="your email" id="email" required>
+
+        <label for="password">Password:</label>
+        <input name="password" type="password" placeholder="your password" id="password" pattern=".{5,10}"
+            title="5 to 10 characters" required>
+
+        <br>
+
+        <label for="birthday">Birthday</label>
+        <select name="month" id="birthday">
+            <option>May</option>
+            <option>June</option>
+            <option>July</option>
+        </select>
+
+        <select name="day" id="day">
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+        </select>
+
+        <select name="year" id="year">
+            <option>1977</option>
+            <option>1978</option>
+            <option>1979</option>
+        </select>
+
+        <br>
+
+        <label for="TermsAndConditions">I agree to the terms and conditions</label>
+        <input id="TermsAndConditions" type="checkbox" name="TermsAndConditions" value="accepted">
+
+        <br>
+
+        <input type="submit">
+
+
+    </form>
+
+
+
+</body>
+
+</html>
