@@ -10,58 +10,58 @@ table {
 }
 
 .topleft {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-top: none;
     border-left: none;
 }
 
 .topmid {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-top: none;
 }
 
 .topright {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-top: none;
     border-right: none;
 }
 
 .midleft {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-left: none;
 }
 
 .midmid {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
 }
 
 .midright {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-right: none;
 }
 
 .bottomleft {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-bottom: none;
     border-left: none;
 }
 
 .bottommid {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-bottom: none;
 }
 
 .bottomright {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
     border-bottom: none;
     border-right: none;
 }
