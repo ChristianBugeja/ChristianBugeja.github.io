@@ -1,0 +1,28 @@
+html{
+    font-family: 'Source Sans Pro', sans-serif;
+    border: solid 20px #bdc7cf;
+    padding: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h2{
+    text-transform: uppercase;
+    color: #3098dd;
+    letter-spacing: 2px;
+    font-weight: 200;
+}
+
+h1{
+    color: #354b63;
+}
+
+.para1{
+    border-left: solid 5px #bdc7cf;
+    padding-left: 5px;
+}
+
+.para4{
+    border-left: solid 5px #bdc7cf;
+    padding-left: 5px;
+}
