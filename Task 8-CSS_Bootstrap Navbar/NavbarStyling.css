@@ -1,0 +1,15 @@
+* {
+    font-family: 'Public Sans', sans-serif;
+}
+
+#Title {
+    text-transform: uppercase;
+    font-weight: 200;
+    text-align: center;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 200;
+
+}
