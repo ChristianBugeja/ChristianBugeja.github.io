@@ -6,10 +6,19 @@
     text-transform: uppercase;
     font-weight: 200;
     text-align: center;
+
 }
 
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 200;
+    letter-spacing: 10px;
+}
 
+.collapse-navbar-collapse {
+    text-align: end;
+}
+
+.nav-item {
+    padding-left: 25px;
 }
