@@ -9,8 +9,16 @@
 
 }
 
-.navbar-brand {
+#Gallery {
     text-transform: uppercase;
+    font-weight: 200;
+    text-align: center;
+    border: 20px;
+
+}
+
+.navbar-brand {
+
     font-weight: 200;
     letter-spacing: 10px;
 }
@@ -22,3 +30,30 @@
 .nav-item {
     padding-left: 25px;
 }
+
+.nav-item a:hover {
+    background-color: #5c5e645b;
+}
+
+.bottomnav {
+    text-align: center;
+    padding-right: 50px;
+    letter-spacing: 10px;
+}
+
+#links {
+    text-transform: lowercase;
+    font-weight: 200;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+
+}
+
+.row {
+    padding-bottom: 50px;
+}
+
