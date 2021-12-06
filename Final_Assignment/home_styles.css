@@ -1,0 +1,14 @@
+* {
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.WelcomeNote {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+.HorizontalLine {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/images/hr-12.png) repeat-x 0 0;
+    border: 0;
+}
