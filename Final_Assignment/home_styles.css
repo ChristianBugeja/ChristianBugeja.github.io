@@ -5,10 +5,19 @@
 .WelcomeNote {
     padding-left: 20%;
     padding-right: 20%;
-    text-align: center;
+    text-align: start;
 }
+
 .HorizontalLine {
 	height: 6px;
 	background: url(http://ibrahimjabbari.com/images/hr-12.png) repeat-x 0 0;
     border: 0;
+}
+
+.container {
+    padding-top: 10px;
+}
+
+.artist_name {
+    padding-top: 5px;
 }
